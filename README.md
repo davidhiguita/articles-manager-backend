@@ -1,1 +1,1 @@
-# articles-manager-backend
+# Articles manager
